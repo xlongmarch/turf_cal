@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xlongmarch
-- 👀 I’m interested in javascript &c++
+- 👀 I’m interested in javascript & C++
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
