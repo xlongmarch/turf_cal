@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xlongmarch
+- 👋 Hi, I’m @Vikum
 - 👀 I’m interested in javascript & C++
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
